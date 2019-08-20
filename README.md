@@ -1,0 +1,1 @@
+This is the first "real" program I wrote back in the late 1970s and early 1980s.  Its a two-player game for the Apple ][.  Written by Andrew Trotman, Paul Trotman, and Michael Macknight
